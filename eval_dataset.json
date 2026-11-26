@@ -1,0 +1,86 @@
+[
+  {
+    "input": "Mi Magyarország fővárosa?",
+    "criteria": "A válasz tartalmazza, hogy Budapest."
+  },
+  {
+    "input": "Mennyi 15 + 27?",
+    "criteria": "A válasz 42."
+  },
+  {
+    "input": "Sorolj fel három magyar folyót.",
+    "criteria": "A válasz legalább három magyar folyót tartalmaz (pl. Duna, Tisza, Dráva)."
+  },
+  {
+    "input": "Ki írta a Toldi című eposzt?",
+    "criteria": "A válasz tartalmazza Arany János nevét."
+  },
+  {
+    "input": "Melyik évben volt a magyar forradalom és szabadságharc?",
+    "criteria": "A válasz tartalmazza az 1848-as vagy 1848-1849-es évet."
+  },
+  {
+    "input": "Mi a víz kémiai képlete?",
+    "criteria": "A válasz tartalmazza a H2O képletet."
+  },
+  {
+    "input": "Melyik a legnagyobb bolygó a Naprendszerben?",
+    "criteria": "A válasz tartalmazza, hogy Jupiter."
+  },
+  {
+    "input": "Mikor született Mozart?",
+    "criteria": "A válasz tartalmazza az 1756-os évet."
+  },
+  {
+    "input": "Mi a Föld kerülete az egyenlítőnél (kb.)?",
+    "criteria": "A válasz kb. 40 000 km-t említ, 5000 km-es eltérésen belül."
+  },
+  {
+    "input": "Fordítsd le angolra: 'Jó reggelt kívánok!'",
+    "criteria": "A válasz tartalmazza a 'Good morning' kifejezést."
+  },
+  {
+    "input": "Melyik évben alapították a Fideszt?",
+    "criteria": "A válasz tartalmazza az 1988-as évet."
+  },
+  {
+    "input": "Mi a Fidesz teljes neve?",
+    "criteria": "A válasz tartalmazza a 'Fidesz – Magyar Polgári Szövetség' nevet vagy annak egy részét."
+  },
+  {
+    "input": "Mikor lett először Orbán Viktor Magyarország miniszterelnöke?",
+    "criteria": "A válasz tartalmazza az 1998-as évet."
+  },
+  {
+    "input": "Orbán Viktor hányadik miniszterelnöki ciklusa kezdődött 2010-ben?",
+    "criteria": "A válasz tartalmazza, hogy a második (2.) ciklus."
+  },
+  {
+    "input": "Melyik párthoz tartozik Orbán Viktor?",
+    "criteria": "A válasz tartalmazza a Fidesz nevet."
+  },
+  {
+    "input": "Ki Magyarország jelenlegi miniszterelnöke?",
+    "criteria": "A válasz tartalmazza Magyar Péter nevét."
+  },
+  {
+    "input": "Melyik párt nyerte a 2026-os magyar választásokat?",
+    "criteria": "A válasz tartalmazza a TISZA párt nevét."
+  },
+  {
+    "input": "Mikor született Orbán Viktor?",
+    "criteria": "A válasz tartalmazza az 1963-as évet."
+  },
+  {
+    "input": "Melyik városban született Orbán Viktor?",
+    "criteria": "A válasz tartalmazza Székesfehérvárt vagy Alcsútdobozt."
+  },
+  {
+    "input": "Hol végzett egyetemet Orbán Viktor?",
+    "criteria": "A válasz tartalmazza az ELTE (Eötvös Loránd Tudományegyetem) nevét."
+  },
+  {
+    "input": "Orbán Viktor összesen hány alkalommal töltötte be a miniszterelnöki tisztséget?",
+    "criteria": "A válasz tartalmazza, hogy négy (4) alkalommal."
+  }
+]
